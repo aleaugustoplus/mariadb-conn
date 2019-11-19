@@ -9,4 +9,4 @@ Add the path to "libmysqlclient.so.20" in the library path or install "libmysqlc
 
 
 
-
+https://aprendizadodemaquina.com
